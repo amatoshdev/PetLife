@@ -1,8 +1,8 @@
-<h1> Site Institucional: PetLove 🐶 </h1>
+<h1> Site Institucional: PetLife 🐶 </h1>
 
 <h2> Descrição do Projeto </h2>
 
-O projeto se baseia em um site que apresenta uma empresa fictícia, chamada PetLove, e seus respectivos serviços. 
+O projeto se baseia em um site que apresenta uma empresa fictícia, chamada PetLife, e seus respectivos serviços. 
 
 O site é estilizado em cor laranja, branco, beige, cinza-escuro e preto.
 
@@ -49,7 +49,7 @@ Para (re)criar esse projeto você necessitará consolidar e aplicar certos conhe
 <h2> Ilustrações do programa: </h2>
 
 <p align="center">
-Cabeçalho e apresentação inicial da clínica veterinária "PetLove": <br/> <br/>
+Cabeçalho e apresentação inicial da clínica veterinária "PetLife": <br/> <br/>
 <img src="https://imgur.com/4LznWtg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
