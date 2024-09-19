@@ -48,8 +48,6 @@ ___
 - <b> Windows 11 </b>
 - <b> Visual Studio (VS) Code </b>
 
-___
-
 <h2> Ilustrações do programa: </h2>
 
 <p align="center">
