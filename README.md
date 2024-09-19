@@ -48,7 +48,7 @@ ___
 - <b> Windows 11 </b>
 - <b> Visual Studio (VS) Code </b>
 
-<h2> Ilustrações do programa: </h2>
+<h2> Ilustrações do site: </h2>
 
 <p align="center">
 Cabeçalho e apresentação inicial da clínica veterinária "PetLife": <br/> <br/>
