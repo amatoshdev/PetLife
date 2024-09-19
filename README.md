@@ -67,11 +67,11 @@ Seção de dúvidas (que possui caixas clicáveis e responsivas): <br/> <br/>
 <br/>
 Rodapé da página com o logo e slogan, links rápidos, informações de contato e referências: <br/> <br/>
 <img src="https://imgur.com/7HA45cc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>/
+<br/>
 <br/>
 _______
 
 <p align = "center">
-<i> Gostaria de agradecer a escola 🤘 One Bit Code por me proporcionar esse exercício desafiador que me introduziu ao mundo e a programação frontend. </i> </p>
+<i> Gostaria de agradecer a escola 🤘 One Bit Code por me proporcionar esse exercício desafiador que me introduziu ao universo e à programação frontend. </i> </p>
 
       Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
