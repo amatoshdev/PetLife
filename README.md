@@ -23,7 +23,7 @@ Enfim, foi uma experiência divertida em que pude entender um pouco mais sobre o
 
 Para (re)criar esse projeto você necessitará consolidar e aplicar certos conhecimentos específicos:
 
-1. HTML básico: Estruturação de páginas web com tags como <div>, <header>, <footer>, <section>, etc.
+1. HTML básico: Estruturação de páginas web com tags como div, header, footer, section, etc.
 2. CSS básico: Estilização de elementos (cores, layout, espaçamento, fontes) e uso de seletores básicos (como classes e IDs).
 3. JavaScript básico: Manipulação de elementos da página, tratamento de eventos (como cliques ou envio de formulários) e alterações dinâmicas no conteúdo.
 4. DOM (Document Object Model): Entender como acessar e modificar o conteúdo de uma página web usando JavaScript (métodos como getElementById(), querySelector(), etc).
