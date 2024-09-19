@@ -72,6 +72,6 @@ Rodapé da página com o logo e slogan, links rápidos, informações de contato
 _______
 
 <p align = "center">
-<i> Gostaria de agradecer a escola 🤘 One Bit Code por me proporcionar esse exercício desafiador que me introduziu ao universo e à programação frontend. </i> </p>
+<i> Gostaria de agradecer a escola 🤘 OneBitCode por me proporcionar esse exercício desafiador que me introduziu ao universo e à programação frontend. </i> </p>
 
       Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
