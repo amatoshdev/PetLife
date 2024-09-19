@@ -31,6 +31,8 @@ Para (re)criar esse projeto você necessitará consolidar e aplicar certos conhe
 6. CSS Flexbox/Grid: Organizar layout de forma responsiva (disposição de elementos na página de acordo com o tamanho da tela).
 7. Ferramentas de desenvolvimento do navegador: Uso de inspecionamento de elementos, console JavaScript, e ajustes em tempo real de CSS.
 
+___
+
 <h2> Linguagens Utilizadas: </h2>
 
 - <b> HTML (Hyper Text Markup Language) </b>
